@@ -1,0 +1,13 @@
+{
+  "servers": [
+    {
+      "type": "dicomWeb",
+      "name": "Azure DICOM",
+      "wadoUriRoot": "https://dicomclinic-dicom-clinic.dicom.azurehealthcareapis.com",
+      "qidoRoot": "https://dicomclinic-dicom-clinic.dicom.azurehealthcareapis.com",
+      "wadoRoot": "https://dicomclinic-dicom-clinic.dicom.azurehealthcareapis.com",
+      "supportsFuzzyMatching": false,
+      "lazyLoadStudyList": true
+    }
+  ]
+}
